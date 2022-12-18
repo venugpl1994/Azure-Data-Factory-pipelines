@@ -1,0 +1,17 @@
+{
+	"name": "mission100adef",
+	"properties": {
+		"globalParameters": {
+			"databaseName2": {
+				"type": "string",
+				"value": "mission100db"
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cb3bb0d-6a24-4545-a139-d20b6868baba",
+		"tenantId": "6c678164-7bdb-4137-acd0-db010652c426"
+	}
+}
