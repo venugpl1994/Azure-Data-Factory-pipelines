@@ -7,12 +7,6 @@
 		"pipelines": [
 			{
 				"pipelineReference": {
-					"referenceName": "For_each_example",
-					"type": "PipelineReference"
-				}
-			},
-			{
-				"pipelineReference": {
 					"referenceName": "pipeline_param_example",
 					"type": "PipelineReference"
 				},
