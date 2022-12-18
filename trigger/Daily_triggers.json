@@ -4,17 +4,7 @@
 		"description": "This trigger will execute the pepline on daily basis ",
 		"annotations": [],
 		"runtimeState": "Stopped",
-		"pipelines": [
-			{
-				"pipelineReference": {
-					"referenceName": "pipeline_param_example",
-					"type": "PipelineReference"
-				},
-				"parameters": {
-					"entityName": "product"
-				}
-			}
-		],
+		"pipelines": [],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
