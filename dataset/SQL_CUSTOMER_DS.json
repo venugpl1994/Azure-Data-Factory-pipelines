@@ -3,7 +3,10 @@
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "missionsqldb",
-			"type": "LinkedServiceReference"
+			"type": "LinkedServiceReference",
+			"parameters": {
+				"databaseName": "mission100db"
+			}
 		},
 		"annotations": [],
 		"type": "AzureSqlTable",
