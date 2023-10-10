@@ -6,6 +6,9 @@
 				"type": "string",
 				"value": "mission100db"
 			}
+		},
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
 		}
 	},
 	"location": "eastus",
